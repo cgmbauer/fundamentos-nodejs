@@ -1,6 +1,8 @@
-<p align="center"> 
-  <img src='https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg' alt='NodeJS logo' width="200px" height="123px" />
+<p >
+  <img src='https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg' alt='GoStack logo' float="left" width="400px" height="123px" />
+  <img src='https://github.com/cgmbauer/assets/blob/master/logo/rocketseat.png' alt='GoStack logo' float="right" width="400px" height="123px" />
 </p>
+
 
 # Desafio - Conceitos de NodeJS
 
