@@ -2,6 +2,7 @@
     <img src='https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg' alt='GoStack logo' float="left" width="350px" height="123px" />
     <img src='https://github.com/cgmbauer/assets/blob/master/logo/rocketseat.png' alt='GoStack logo' float="right" width="350px" height="123px" />
   </p>
+ <br/>
 
 
 # Desafio - Conceitos de NodeJS
